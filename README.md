@@ -1,2 +1,2 @@
-# Design-com-bootstrap
-Mudanças no template pronto (Bootstrap)
+# Design-com-Bootstrap-
+Modificações de layout com template bootstrap pronto
